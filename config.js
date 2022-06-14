@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'ᖇᕼᗰT ᗷOTᘔ'
+global.wm = 'RhmtBotz'
 global.watermark = wm
-global.wm2 = '                     「 ᖇᕼᗰT ᗷOTᘔ あ⁩ 」'
-global.wm3 = '⫹⫺ ᖇᕼᗰT ᗷOTᘔ'
+global.wm2 = '                     「 RhmtBotz あ⁩ 」'
+global.wm3 = '⫹⫺ RhmtBotz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -36,8 +36,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = '2022'
-global.author = '© Hyzer Official'
+global.packname = ' '
+global.author = ' '
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
